@@ -31,5 +31,5 @@ function preserveDecimal(n){
   parseFloat('n')
 }
 function preserveDecimal(n){
-  parseFloat('nonsense')
+  parseFloat('n')
 }
