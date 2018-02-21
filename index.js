@@ -22,11 +22,10 @@ function makeInt(n){
   parseInt('n', 0)
 }
 function makeInt(n){
-  parseInt('n', 10);
+  parseInt('n', 10)
 }
 function makeInt(n){
-  parseInt('nonsense', 10);
-  console.log(n)
+  parseInt('nonsense', 10)
 }
 
 
