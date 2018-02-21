@@ -12,10 +12,10 @@ function divide(a, b){
   return (a / b)
 }
 function inc(n){
-  return (n++)
+  return (n+)
 }
 function dec(n){
-  return (n--)
+  return (n-)
 }
 function makeInt(n){
   parseInt('n')
@@ -29,6 +29,6 @@ function makeInt(n){
 function preserveDecimal(n){
   parseFloat('n')
 }
-function preserveDecimal(n.nnn){
+function preserveDecimal(n){
   parseFloat('non-integer')
 }
