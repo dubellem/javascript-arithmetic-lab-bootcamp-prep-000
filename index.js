@@ -25,13 +25,6 @@ console.log(n)
 function makeInt(n){
   parseInt('n', 10)
 }
-function makeInt(n){
-  parseInt('nonsense', 10)
-}
-
-function preserveDecimal(n){
-  parseFloat('n')
-}
 function preserveDecimal(n){
   parseFloat('n')
 }
