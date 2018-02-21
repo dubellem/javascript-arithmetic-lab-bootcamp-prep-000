@@ -32,6 +32,6 @@ function preserveDecimal(n){
   parseFloat('n')
 }
 function preserveDecimal(n){
-  var n = n.toFixed(3);
+  var n = n(3);
   parseFloat('n')
 }
