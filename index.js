@@ -33,5 +33,5 @@ function preserveDecimal(n){
   parseFloat('n')
 }
 function preserveDecimal(n){
-  parseFloat('n'.toFixed(3))
+  parseFloat('n')
 }
