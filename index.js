@@ -27,9 +27,9 @@ function makeInt(n){
 function makeInt(n){
   parseInt('nonsene', 10)
 }
-function preserveDecimal(n){
+function preserveDecimal(n) { 
   parseFloat('n')
 }
-function preserveDecimal(n){
+function preserveDecimal(n) {
   parseFloat('n')
 }
