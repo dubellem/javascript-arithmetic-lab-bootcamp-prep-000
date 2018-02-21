@@ -21,7 +21,6 @@ function dec(n){
 function makeInt(n){
   parseInt('n', 1)
 }
-console.log(n)
 function makeInt(n){
   parseInt('n', 10)
 }
