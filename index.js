@@ -22,14 +22,14 @@ function makeInt(n){
   parseInt('n')
 }
 function makeInt(n){
-  parseInt(n, 10)
+  parseInt('n', 10)
 }
 function makeInt(n){
-  parseInt('non-integer', 10)
+  parseInt('nonsene', 10)
 }
 function preserveDecimal(n){
   parseFloat('n')
 }
 function preserveDecimal(n){
-  parseFloat('non-integer')
+  parseFloat('nonsense')
 }
